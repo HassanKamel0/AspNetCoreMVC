@@ -1,0 +1,51 @@
+C:\Users\hassa\source\repos\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.csproj.AssemblyReference.cache
+C:\Users\hassa\source\repos\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hassa\source\repos\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hassa\source\repos\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.AssemblyInfo.cs
+C:\Users\hassa\source\repos\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hassa\source\repos\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.DataAccess.deps.json
+C:\Users\hassa\source\repos\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.DataAccess.runtimeconfig.json
+C:\Users\hassa\source\repos\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.DataAccess.dll
+C:\Users\hassa\source\repos\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.DataAccess.pdb
+C:\Users\hassa\source\repos\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.Model.dll
+C:\Users\hassa\source\repos\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.Model.pdb
+C:\Users\hassa\source\repos\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.csproj.CopyComplete
+C:\Users\hassa\source\repos\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.dll
+C:\Users\hassa\source\repos\WoodyBook.DataAccess\obj\Debug\net6.0\refint\WoodyBook.DataAccess.dll
+C:\Users\hassa\source\repos\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.pdb
+C:\Users\hassa\source\repos\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.genruntimeconfig.cache
+C:\Users\hassa\source\repos\WoodyBook.DataAccess\obj\Debug\net6.0\ref\WoodyBook.DataAccess.dll
+C:\Users\hassa\source\repos\New folder\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.DataAccess.deps.json
+C:\Users\hassa\source\repos\New folder\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.DataAccess.runtimeconfig.json
+C:\Users\hassa\source\repos\New folder\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.DataAccess.dll
+C:\Users\hassa\source\repos\New folder\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.DataAccess.pdb
+C:\Users\hassa\source\repos\New folder\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.Model.dll
+C:\Users\hassa\source\repos\New folder\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.Model.pdb
+C:\Users\hassa\source\repos\New folder\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.csproj.AssemblyReference.cache
+C:\Users\hassa\source\repos\New folder\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hassa\source\repos\New folder\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hassa\source\repos\New folder\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.AssemblyInfo.cs
+C:\Users\hassa\source\repos\New folder\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hassa\source\repos\New folder\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.csproj.CopyComplete
+C:\Users\hassa\source\repos\New folder\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.dll
+C:\Users\hassa\source\repos\New folder\WoodyBook.DataAccess\obj\Debug\net6.0\refint\WoodyBook.DataAccess.dll
+C:\Users\hassa\source\repos\New folder\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.pdb
+C:\Users\hassa\source\repos\New folder\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.genruntimeconfig.cache
+C:\Users\hassa\source\repos\New folder\WoodyBook.DataAccess\obj\Debug\net6.0\ref\WoodyBook.DataAccess.dll
+C:\Users\hassa\source\repos\WoodyBooksProject\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.DataAccess.deps.json
+C:\Users\hassa\source\repos\WoodyBooksProject\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.DataAccess.runtimeconfig.json
+C:\Users\hassa\source\repos\WoodyBooksProject\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.DataAccess.dll
+C:\Users\hassa\source\repos\WoodyBooksProject\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.DataAccess.pdb
+C:\Users\hassa\source\repos\WoodyBooksProject\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.Model.dll
+C:\Users\hassa\source\repos\WoodyBooksProject\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.Model.pdb
+C:\Users\hassa\source\repos\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.csproj.AssemblyReference.cache
+C:\Users\hassa\source\repos\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hassa\source\repos\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.AssemblyInfoInputs.cache
+C:\Users\hassa\source\repos\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.AssemblyInfo.cs
+C:\Users\hassa\source\repos\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hassa\source\repos\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.csproj.CopyComplete
+C:\Users\hassa\source\repos\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.dll
+C:\Users\hassa\source\repos\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\refint\WoodyBook.DataAccess.dll
+C:\Users\hassa\source\repos\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.pdb
+C:\Users\hassa\source\repos\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.genruntimeconfig.cache
+C:\Users\hassa\source\repos\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\ref\WoodyBook.DataAccess.dll
