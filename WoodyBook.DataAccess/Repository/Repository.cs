@@ -17,6 +17,7 @@ namespace WoodyBook.DataAccess.Repository
         public Repository(AppDBcontext _db)  //put the database output into store here
         {
             db = _db;
+            //_db.ShoppingCarts.AsNoTracking()
             //db.ShoppingCarts.Include(u => u.product);
             this.dbSet=_db.Set<T>();  //to set the class which call the store
         }
@@ -42,9 +43,14 @@ namespace WoodyBook.DataAccess.Repository
             return query.ToList();
         }
 
-        public T GetFirstOrDefault(Expression<Func<T, bool>> filter, string? includeProperties = null)
+        public T GetFirstOrDefault(Expression<Func<T, bool>> filter, string? includeProperties = null, bool tracked = true)
         {
-            IQueryable<T> query = dbSet;
+            IQueryable<T> query;
+            if (tracked)
+            {
+                query = dbSet;
+            }
+            else { query = dbSet.AsNoTracking(); }
             if (includeProperties != null)
             {
                 foreach (var includeProp in includeProperties.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
