@@ -28,7 +28,7 @@ namespace WoodyBook.DataAccess.Repository
             {
                 orderFromDb.OrderStatus = orderstatus;
                 if (paymentStatus != null)
-                    orderFromDb.OrderStatus = paymentStatus;
+                    orderFromDb.PaymenyStatus = paymentStatus;
             }
         }
 

@@ -25,5 +25,6 @@ namespace WoodyBooks.Utility
         public const string PaymentStatusDelayedPayment = "Approved for delayed Payment";
         public const string PaymentStatusRejected = "Rejected";
 
+        public const string SessionCart = "SessionShoppingCart";
     }
 }

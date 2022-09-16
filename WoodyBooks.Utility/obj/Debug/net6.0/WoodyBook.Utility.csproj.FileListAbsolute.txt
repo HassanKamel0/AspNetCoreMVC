@@ -22,3 +22,15 @@ C:\Users\hassa\source\repos\WoodyBooksProject\WoodyBooks.Utility\obj\Debug\net6.
 C:\Users\hassa\source\repos\WoodyBooksProject\WoodyBooks.Utility\obj\Debug\net6.0\refint\WoodyBook.Utility.dll
 C:\Users\hassa\source\repos\WoodyBooksProject\WoodyBooks.Utility\obj\Debug\net6.0\WoodyBook.Utility.pdb
 C:\Users\hassa\source\repos\WoodyBooksProject\WoodyBooks.Utility\obj\Debug\net6.0\ref\WoodyBook.Utility.dll
+F:\new\.Net\WoodyBooksProject\WoodyBooks.Utility\bin\Debug\net6.0\WoodyBook.Utility.deps.json
+F:\new\.Net\WoodyBooksProject\WoodyBooks.Utility\bin\Debug\net6.0\WoodyBook.Utility.dll
+F:\new\.Net\WoodyBooksProject\WoodyBooks.Utility\bin\Debug\net6.0\WoodyBook.Utility.pdb
+F:\new\.Net\WoodyBooksProject\WoodyBooks.Utility\obj\Debug\net6.0\WoodyBook.Utility.csproj.AssemblyReference.cache
+F:\new\.Net\WoodyBooksProject\WoodyBooks.Utility\obj\Debug\net6.0\WoodyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+F:\new\.Net\WoodyBooksProject\WoodyBooks.Utility\obj\Debug\net6.0\WoodyBook.Utility.AssemblyInfoInputs.cache
+F:\new\.Net\WoodyBooksProject\WoodyBooks.Utility\obj\Debug\net6.0\WoodyBook.Utility.AssemblyInfo.cs
+F:\new\.Net\WoodyBooksProject\WoodyBooks.Utility\obj\Debug\net6.0\WoodyBook.Utility.csproj.CoreCompileInputs.cache
+F:\new\.Net\WoodyBooksProject\WoodyBooks.Utility\obj\Debug\net6.0\WoodyBook.Utility.dll
+F:\new\.Net\WoodyBooksProject\WoodyBooks.Utility\obj\Debug\net6.0\refint\WoodyBook.Utility.dll
+F:\new\.Net\WoodyBooksProject\WoodyBooks.Utility\obj\Debug\net6.0\WoodyBook.Utility.pdb
+F:\new\.Net\WoodyBooksProject\WoodyBooks.Utility\obj\Debug\net6.0\ref\WoodyBook.Utility.dll
