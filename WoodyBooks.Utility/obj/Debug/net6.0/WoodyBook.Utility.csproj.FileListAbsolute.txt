@@ -34,3 +34,15 @@ F:\new\.Net\WoodyBooksProject\WoodyBooks.Utility\obj\Debug\net6.0\WoodyBook.Util
 F:\new\.Net\WoodyBooksProject\WoodyBooks.Utility\obj\Debug\net6.0\refint\WoodyBook.Utility.dll
 F:\new\.Net\WoodyBooksProject\WoodyBooks.Utility\obj\Debug\net6.0\WoodyBook.Utility.pdb
 F:\new\.Net\WoodyBooksProject\WoodyBooks.Utility\obj\Debug\net6.0\ref\WoodyBook.Utility.dll
+F:\new\All Projects\WoodyBooksWebProject\WoodyBooks.Utility\bin\Debug\net6.0\WoodyBook.Utility.deps.json
+F:\new\All Projects\WoodyBooksWebProject\WoodyBooks.Utility\bin\Debug\net6.0\WoodyBook.Utility.dll
+F:\new\All Projects\WoodyBooksWebProject\WoodyBooks.Utility\bin\Debug\net6.0\WoodyBook.Utility.pdb
+F:\new\All Projects\WoodyBooksWebProject\WoodyBooks.Utility\obj\Debug\net6.0\WoodyBook.Utility.csproj.AssemblyReference.cache
+F:\new\All Projects\WoodyBooksWebProject\WoodyBooks.Utility\obj\Debug\net6.0\WoodyBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+F:\new\All Projects\WoodyBooksWebProject\WoodyBooks.Utility\obj\Debug\net6.0\WoodyBook.Utility.AssemblyInfoInputs.cache
+F:\new\All Projects\WoodyBooksWebProject\WoodyBooks.Utility\obj\Debug\net6.0\WoodyBook.Utility.AssemblyInfo.cs
+F:\new\All Projects\WoodyBooksWebProject\WoodyBooks.Utility\obj\Debug\net6.0\WoodyBook.Utility.csproj.CoreCompileInputs.cache
+F:\new\All Projects\WoodyBooksWebProject\WoodyBooks.Utility\obj\Debug\net6.0\WoodyBook.Utility.dll
+F:\new\All Projects\WoodyBooksWebProject\WoodyBooks.Utility\obj\Debug\net6.0\refint\WoodyBook.Utility.dll
+F:\new\All Projects\WoodyBooksWebProject\WoodyBooks.Utility\obj\Debug\net6.0\WoodyBook.Utility.pdb
+F:\new\All Projects\WoodyBooksWebProject\WoodyBooks.Utility\obj\Debug\net6.0\ref\WoodyBook.Utility.dll

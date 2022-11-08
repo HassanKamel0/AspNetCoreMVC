@@ -66,3 +66,37 @@ F:\new\.Net\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\refint\Woody
 F:\new\.Net\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.pdb
 F:\new\.Net\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.genruntimeconfig.cache
 F:\new\.Net\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\ref\WoodyBook.DataAccess.dll
+F:\new\All Projects\WoodyBooksProject\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.DataAccess.deps.json
+F:\new\All Projects\WoodyBooksProject\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.DataAccess.runtimeconfig.json
+F:\new\All Projects\WoodyBooksProject\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.DataAccess.dll
+F:\new\All Projects\WoodyBooksProject\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.DataAccess.pdb
+F:\new\All Projects\WoodyBooksProject\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.Model.dll
+F:\new\All Projects\WoodyBooksProject\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.Model.pdb
+F:\new\All Projects\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.csproj.AssemblyReference.cache
+F:\new\All Projects\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\new\All Projects\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.AssemblyInfoInputs.cache
+F:\new\All Projects\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.AssemblyInfo.cs
+F:\new\All Projects\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.csproj.CoreCompileInputs.cache
+F:\new\All Projects\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.csproj.CopyComplete
+F:\new\All Projects\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.dll
+F:\new\All Projects\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\refint\WoodyBook.DataAccess.dll
+F:\new\All Projects\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.pdb
+F:\new\All Projects\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.genruntimeconfig.cache
+F:\new\All Projects\WoodyBooksProject\WoodyBook.DataAccess\obj\Debug\net6.0\ref\WoodyBook.DataAccess.dll
+F:\new\All Projects\WoodyBooksWebProject\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.DataAccess.deps.json
+F:\new\All Projects\WoodyBooksWebProject\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.DataAccess.runtimeconfig.json
+F:\new\All Projects\WoodyBooksWebProject\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.DataAccess.dll
+F:\new\All Projects\WoodyBooksWebProject\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.DataAccess.pdb
+F:\new\All Projects\WoodyBooksWebProject\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.Model.dll
+F:\new\All Projects\WoodyBooksWebProject\WoodyBook.DataAccess\bin\Debug\net6.0\WoodyBook.Model.pdb
+F:\new\All Projects\WoodyBooksWebProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.csproj.AssemblyReference.cache
+F:\new\All Projects\WoodyBooksWebProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\new\All Projects\WoodyBooksWebProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.AssemblyInfoInputs.cache
+F:\new\All Projects\WoodyBooksWebProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.AssemblyInfo.cs
+F:\new\All Projects\WoodyBooksWebProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.csproj.CoreCompileInputs.cache
+F:\new\All Projects\WoodyBooksWebProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.csproj.CopyComplete
+F:\new\All Projects\WoodyBooksWebProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.dll
+F:\new\All Projects\WoodyBooksWebProject\WoodyBook.DataAccess\obj\Debug\net6.0\refint\WoodyBook.DataAccess.dll
+F:\new\All Projects\WoodyBooksWebProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.pdb
+F:\new\All Projects\WoodyBooksWebProject\WoodyBook.DataAccess\obj\Debug\net6.0\WoodyBook.DataAccess.genruntimeconfig.cache
+F:\new\All Projects\WoodyBooksWebProject\WoodyBook.DataAccess\obj\Debug\net6.0\ref\WoodyBook.DataAccess.dll

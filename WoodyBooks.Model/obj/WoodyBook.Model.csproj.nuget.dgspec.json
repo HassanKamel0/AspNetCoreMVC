@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hassa\\source\\repos\\WoodyBooksProject\\WoodyBooks.Model\\WoodyBook.Model.csproj": {}
+    "F:\\new\\All Projects\\WoodyBooksWebProject\\WoodyBooks.Model\\WoodyBook.Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hassa\\source\\repos\\WoodyBooksProject\\WoodyBooks.Model\\WoodyBook.Model.csproj": {
+    "F:\\new\\All Projects\\WoodyBooksWebProject\\WoodyBooks.Model\\WoodyBook.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hassa\\source\\repos\\WoodyBooksProject\\WoodyBooks.Model\\WoodyBook.Model.csproj",
+        "projectUniqueName": "F:\\new\\All Projects\\WoodyBooksWebProject\\WoodyBooks.Model\\WoodyBook.Model.csproj",
         "projectName": "WoodyBook.Model",
-        "projectPath": "C:\\Users\\hassa\\source\\repos\\WoodyBooksProject\\WoodyBooks.Model\\WoodyBook.Model.csproj",
+        "projectPath": "F:\\new\\All Projects\\WoodyBooksWebProject\\WoodyBooks.Model\\WoodyBook.Model.csproj",
         "packagesPath": "C:\\Users\\hassa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hassa\\source\\repos\\WoodyBooksProject\\WoodyBooks.Model\\obj\\",
+        "outputPath": "F:\\new\\All Projects\\WoodyBooksWebProject\\WoodyBooks.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+gP7GOdY30V1OtEaxz83xYsCAboFpACMkNQJDSHqwWAFaRuL3Sw72EF+P0p9oUavAke73v4vH9tRuDp63D1+TA==",
+  "dgSpecHash": "V8pQPvDniGxJkz011c1eHfPxhzZ8hzeD0/30hqHLgDrvBNz9pafVgxhRW9dzJpluBvPDANPpmqasC3l9ubb40w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hassa\\source\\repos\\WoodyBooksProject\\WoodyBooks.Model\\WoodyBook.Model.csproj",
+  "projectFilePath": "F:\\new\\All Projects\\WoodyBooksWebProject\\WoodyBooks.Model\\WoodyBook.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hassa\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\hassa\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
